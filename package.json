@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/WoraphatSriwichai/SE-HACK#readme",
   "dependencies": {
+    "@prisma/client": "^5.18.0",
     "express": "^4.19.2",
     "se-hack": "file:"
   },
